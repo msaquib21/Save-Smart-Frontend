@@ -1,0 +1,64 @@
+.login-page {
+  
+  height: 100vh !important;
+  width: 100vw !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+body{
+  /* background-image: url ("img.jpg");
+  display:inline block;
+
+  height:100%;
+  width:120%; */
+
+  background-image:url;
+
+}
+.login-form {
+  background-color: #b9bcccb6;
+  margin-left: -15px;
+  padding: 30px;
+}
+
+/* .row-container h1{
+ 
+} */
+#S{
+  display:inline-block;
+  
+  /* margin:auto; */
+   /* text-align: center; */
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-left: 140px;
+   /* color: rgb(25, 141, 214); */
+   /* border: 4px solid red; */
+}
+.login-form h1 {
+  text-align: center;
+  font-weight: bold;
+  margin: 30px;
+  color: #344265;
+}
+
+.login-form .ant-form-item-label label {
+  color: #344265 !important;
+}
+.login-form button {
+  background-color: #344265;
+  color: white;
+  outline: none;
+}
+.login-form button:hover {
+  background-color: black;
+  color: white;
+}
+.login-form a {
+  color: #344265 !important;
+}
+
+.login-form a:hover {
+  color: black !important;
+}
